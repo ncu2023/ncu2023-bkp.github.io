@@ -3486,6 +3486,7 @@ input, select, textarea {
 			max-height: 50em;
 		}
 
+
 			#banner.major.alt {
 				opacity: 0.75;
 			}
@@ -3950,3 +3951,7 @@ input, select, textarea {
 			opacity: 1;
 			visibility: visible;
 		}
+
+.my-banner {
+	color: #37a6cb;
+}
